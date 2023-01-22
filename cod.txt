@@ -2,5 +2,8 @@
 
 int main(){
 
+  printf("something");
+  printf("\n radu e smehcelr");
+
   return 0;
 }
